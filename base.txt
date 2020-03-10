@@ -1,0 +1,5 @@
+backup1 "C:\db1c\1c"
+backup2 "C:\db1c\1c2"
+
+
+
